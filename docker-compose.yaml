@@ -22,7 +22,7 @@ services:
       # 请确保和飞书应用管理平台中的设置一致
       - BOT_NAME=ChatGPT
       # OpenAI API Key 支持负载均衡, 可以填写多个 Key 用逗号分隔
-      - OPENAI_KEY=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
+      - OPENAI_KEY=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
       - OPENAI_MODEL=gpt-4
       # 服务器配置
       - HTTP_PORT=9000
